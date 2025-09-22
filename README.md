@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">I'm Katie! I am a multitude of things including:<br>-Filipino-American <br>-IT Support Specialist <br>-Web/Game Developer<br>-Game Development Graduate<br>-Jewlery-Making Enthusiast<br><br>I love all things interactive media and I am always learning new frameworks and tools to expand my knowledge as a developer in my early career. I am also interested in supporting early STEAM education!  <br><br>-Currently, I’m working as an IT Intern!</p><br>-Find my projects on my website: katiehellmann.com</p>
+<p align="left">I'm Katie! I am a multitude of things including:<br>-Filipino-American <br>-Desktop Admin <br>-Web/Game Developer<br>-Game Development Graduate<br>-Jewlery-Making Enthusiast<br><br>I love all things interactive media and I am always learning new tools to expand my knowledge as a developer in my early career. I am also interested in supporting early STEAM education!  <br><br>-Currently, I’m working building new skills in IT + Systems</p><br>-Find my projects on my website: katiehellmann.com</p>
 
 ###
 
